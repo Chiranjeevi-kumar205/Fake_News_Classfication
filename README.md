@@ -1,3 +1,6 @@
+
+https://github.com/Chiranjeevi-kumar205/Fake_News_Classfication/assets/113673104/05b10277-4d7e-423b-9c10-efaa6e2017ed
+
 ## Fake News Classification
 Overview:
 The Fake News Classification project aims to develop a robust machine learning model capable of distinguishing between genuine and fake news articles. In today's digital age, misinformation poses a significant challenge, making it crucial to deploy automated systems to identify and combat the spread of false information. This project employs natural language processing (NLP) techniques and machine learning algorithms to analyze textual content and classify news articles into two categories: authentic and deceptive.
